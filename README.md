@@ -24,7 +24,8 @@
 ⚡  Sou apaixonado por desenvolvimento de sistema e sempre busco aprender alguma tecnologia nova.</br>
 
 ### Minhas experiências 🙌
-- [Analista de Engenharia TI PL](https://ion.itau/) - (mar/22 - Atual)
+- [Engenheiro de Software Senior](https://www.mercadolivre.com.br) - (dez/24 - atual)
+- [Analista de Engenharia TI PL](https://ion.itau/) - (mar/22 - dez/24)
 - [Analista de Sistemas Sênior](https://www.safra.com.br/) - (jul/21 - fev/2022 [8 meses])
 - [Analista de Sistemas Sênior](https://www.santander.com.br/) - (out/2013 - jul/2021 [7 anos 10 meses])
 
